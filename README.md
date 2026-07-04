@@ -25,6 +25,7 @@ your library, and keeps itself up to date on Windows automatically.
 ## Using it
 
 1. Copy any YouTube link, anywhere. A notification pops up: *"Summarize this video?"* — click it.
+   (On a Mac, the first time it may ask *"TubeRecap would like to paste from other apps"* — choose **Always Allow**; that's how it notices links you copy.)
 2. Or open TubeRecap and paste the link in the big box.
 3. A few minutes later (depending on video length): a full summary, saved
    forever in your Library. Click any past video to re-read its summary or
